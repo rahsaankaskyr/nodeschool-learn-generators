@@ -1,0 +1,10 @@
+
+
+git remote add origin https://github.com/takonyc/nodeschool-learn-generators.git
+
+
+
+learn-generators
+
+
+$ npm install learn-generators -g
